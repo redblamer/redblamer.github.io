@@ -5,18 +5,18 @@
 
 <title>Time seals all tombs</title>
 
-<link>http://tinyurl.com/timetomb</link>
+<link>https://www.blurb.com/bookshare/app/index.html?bookId=837560</link>
 <language>en-us</language>
-<copyright>&#x2117; &amp; &#xA9; 2009 Shane Andrewartha </copyright>
+<copyright>&#x2117; &amp; &#xA9; 2009 S. Andrewartha </copyright>
 
-<itunes:subtitle>a compilation of images and verse</itunes:subtitle>
+<itunes:subtitle>Performed by Gadzooxtian circa 2010</itunes:subtitle>
 
-<itunes:author>Shane Andrewartha</itunes:author>
+<itunes:author>S. Andrewartha</itunes:author>
 <itunes:summary>a fiendishly dark artistic endeavour from suburban melbourne</itunes:summary>
 <description>a fiendishly dark artistic endeavour from suburban melbourne, taboos to enliven and ignite your creative mind</description>
 
 <itunes:owner>
-<itunes:name>Shane Andrewartha</itunes:name>
+<itunes:name>S. Andrewartha</itunes:name>
 <itunes:email>shane.andrewartha@gmail.com</itunes:email>
 </itunes:owner>
 
@@ -32,32 +32,102 @@
 <itunes:explicit>no</itunes:explicit> 
 
 <item>
-<title>blurb</title>
-<itunes:author>Shane Andrewartha</itunes:author>
-<itunes:subtitle>the blurb (48 sec)</itunes:subtitle>
-<enclosure url="https://redblamer.github.io/00_the_blurb_48secs.mp3" length="48" type="audio/mpeg" />
-<guid>https://redblamer.github.io/00_the_blurb_48secs.mp3</guid>
+<title>The big bang: part 2</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>hurling and catching</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/08_big_bang_32secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/08_big_bang_32secs.mp3</guid>
 <pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
-<itunes:duration>0:01</itunes:duration>
-</item>
- 
-<item>
-<title>Time seals all tombs</title>
-<itunes:author>Shane Andrewartha</itunes:author>
-<itunes:subtitle>cover artwork</itunes:subtitle>
-<enclosure url="http://sites.google.com/site/timesealsalltombs/Timesealsalltombs1sec.mp3" length="137416" type="audio/mpeg" />
-<guid>http://sites.google.com/site/timesealsalltombs/Timesealsalltombs1sec.mp3</guid>
-<pubDate>Tue, 1 Sep 2009 06:06:06 GMT</pubDate>
-<itunes:duration>0:01</itunes:duration>
+<itunes:duration>0:32</itunes:duration>
 </item>
 
 <item>
-<title>Time seals all tombs (full)</title>
-<itunes:author>Shane Andrewartha</itunes:author>
-<itunes:subtitle>PDF file - all 32 pages</itunes:subtitle>
-<itunes:summary>PDF file - all 32 pages</itunes:summary>
-<enclosure url="http://sites.google.com/site/timesealsalltombs/Timesealsalltombs_full_19x19.pdf" length="396138" type="application/pdf" />
-<guid>http://sites.google.com/site/timesealsalltombs/Timesealsalltombs_full_19x19.pdf</guid>
+<title>The big bang: part 1</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>heresy and translation</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/07_big_bang_35secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/07_big_bang_35secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:35</itunes:duration>
+</item>
+
+<item>
+<title>Sisyphus</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>waged and plundered</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/06_mortality_34secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/06_mortality_34secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:34</itunes:duration>
+</item>
+
+<item>
+<title>Biblical</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>the swallow swoops the raven</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/05_bible_45secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/05_bible_45secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:45</itunes:duration>
+</item>
+
+<item>
+<title>Mortality and clime</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>where the elders fear to venture</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/04_clime_41secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/04_clime_41secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:41</itunes:duration>
+</item>
+
+<item>
+<title>Battlements of metal</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>a torturous beating of the eardrums</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/03_metal_33secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/03_metal_33secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:33</itunes:duration>
+</item>
+
+<item>
+<title>Vlad III The impaler</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>the disorder of the dragon</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/02_vlad_27secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/02_vlad_27secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:27</itunes:duration>
+</item>
+
+<item>
+<title>Part the first</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>it's turtles all-the-way-down</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/01_part_the first_59secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/01_part_the first_59secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:59</itunes:duration>
+</item>
+ 
+<item>
+<title>The concept</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>a tinkering artist, playing with fiery words, compelled to release</itunes:subtitle>
+<enclosure url="https://redblamer.github.io/00_the_blurb_48secs.mp3" length="48" type="audio/mpeg" />
+<guid>https://redblamer.github.io/00_the_blurb_48secs.mp3</guid>
+<pubDate>Sat, 23 Mar 2024 06:06:06 GMT</pubDate>
+<itunes:duration>0:48</itunes:duration>
+</item>
+ 
+<item>
+<title>Time seals all tombs (e-book)</title>
+<itunes:author>S. Andrewartha</itunes:author>
+<itunes:subtitle>Free online, 32 pages</itunes:subtitle>
+<itunes:summary>https://sites.google.com/view/time-seals-all-tombs/behind-the-seals</itunes:summary>
+<enclosure url="https://sites.google.com/view/time-seals-all-tombs/behind-the-seals/Timesealsalltombs_full_19x19.pdf" length="396138" type="application/pdf" />
+<guid>https://sites.google.com/view/time-seals-all-tombs/behind-the-seals/Timesealsalltombs_full_19x19.pdf</guid>
 <pubDate>Tue, 1 Sep 2009 00:00:00 GMT</pubDate>
 <itunes:duration>0:00</itunes:duration>
 </item>
