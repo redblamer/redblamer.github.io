@@ -1,6 +1,7 @@
 ## redblamer.github.io
 1. index.html has a script & all slides
 2. data-input.PNG image is used on 1 slide
+3. Red Blamer's github slidedeck is https://redblamer.github.io
 
 ## Apple iTunes podcast
 1. Timesealsalltombs.PNG cover image
